@@ -18,7 +18,7 @@ javaScript, html, css.
 disponer de un navegador web actualizado(google chrome, opera gx, firefox, etc)
 
 ## 📖 Instrucciones del Proyecto
-el juego consiste en ingresar el nombre de amigos o personas su defecto(mi caso particular) y pulsar el boton de sortear amigo,
+el juego consiste en ingresar el nombre de amigos o personas en su defecto(mi caso particular) y pulsar el boton de sortear amigo,
 con la finalidad de recibir un nombre al azar de los ingresados anteriormente.
 
 ## 🌐 Acceso al Proyecto
