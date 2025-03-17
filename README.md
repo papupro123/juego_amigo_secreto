@@ -23,7 +23,7 @@ con la finalidad de recibir un nombre al azar de los ingresados anteriormente.
 
 ## 🌐 Acceso al Proyecto
 
-[🔗 enlace del juego](file:///C:/Users/nicol/OneDrive/Escritorio/challenge-amigo-secreto_esp-main/juego_amigo_secreto/index.html)
+[🔗 enlace del juego]([file:///C:/Users/nicol/OneDrive/Escritorio/challenge-amigo-secreto_esp-main/juego_amigo_secreto/index.html](https://papupro123.github.io/juego_amigo_secreto/))
 
 ## 📂 Descargar el Proyecto
 
