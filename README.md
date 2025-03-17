@@ -22,14 +22,12 @@ el juego consiste en ingresar el nombre de amigos o personas su defecto(mi caso 
 con la finalidad de recibir un nombre al azar de los ingresados anteriormente.
 
 ## 🌐 Acceso al Proyecto
-file:///C:/Users/nicol/OneDrive/Escritorio/challenge-amigo-secreto_esp-main/juego_amigo_secreto/index.html
 
-[🔗 Enlace al proyecto](#)
+[🔗 file:///C:/Users/nicol/OneDrive/Escritorio/challenge-amigo-secreto_esp-main/juego_amigo_secreto/index.html](#)
 
 ## 📂 Descargar el Proyecto
-https://github.com/papupro123/juego_amigo_secreto/tree/main
 
-[🔗 Repositorio en GitHub](#)
+[🔗 https://github.com/papupro123/juego_amigo_secreto/tree/main](#)
 
 ## 👥 Autores
 manuel martinez
